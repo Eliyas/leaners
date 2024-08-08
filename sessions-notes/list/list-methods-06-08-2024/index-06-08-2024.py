@@ -39,8 +39,8 @@ thislist5.reverse()
 # reference copy in list
 myFruits = ["apple", "banana", "cherry"]
 myFruits1 = myFruits
-#myFruits1.append("berry")
-myFruits.append("mango")
+myFruits1.append("berry")
+#myFruits.append("mango")
 # print(myFruits1)
 # print(myFruits)
 
@@ -55,8 +55,17 @@ myFruit1 = "banana"
 myVar = "apple"
 myVar1 = myVar
 myVar = "banana"
-print(myVar1)
-print(myVar)
+# print(myVar1)
+# print(myVar)
 
+
+myFruits = ["apple", "banana", "cherry"]
+myFruits1 = myFruits
+myFruits2 = myFruits
+myFruits1.append("berry")
+myFruits2.append("Orange")
+print(myFruits)
+print(myFruits1)
+print(myFruits2)
 
 
