@@ -30,3 +30,35 @@ print(myFruits3[-4:-1])
 # overriding item in the list
 myFruits3[3] = "kiwi";
 print(myFruits3)
+
+# string formatting
+a = " Hello, World! "
+print(a)
+print(a.upper())
+print(a.lower())
+print(a.strip())
+print(len(a))
+print(len(a.strip()))
+
+#  Hello, World! 
+#  HELLO, WORLD! 
+#  hello, world! 
+# Hello, World!
+# 15
+# 13
+
+a ="Hello, World!"
+
+replacedStr = a.replace("H", "J")
+# replacedStr = "Hello, World!".replace("H", "J")
+# "Jello, World!"
+# replacedStr = "Jello, World!"
+
+print(replacedStr)
+print(a)
+print(a.replace("W", "J"))
+print(a)
+# Jello, World!
+# Hello, World!
+# Hello, Jorld!
+# Hello, World!
