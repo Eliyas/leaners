@@ -1,5 +1,5 @@
 # 1. Add item to the specific place in the list
-# Add berry in next to the banana and print the list
+# Add berry in the place of the banana and print the list
 # Input:  ["apple", "banana", "cherry"]
 # Output:  ["apple", "berry", "banana", "cherry"]
 
