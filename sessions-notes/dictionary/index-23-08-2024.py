@@ -62,7 +62,8 @@ print(myBankVault["key1"][2])
 
 myBankVault = {
     "eliyasLocker": { 
-        "money": 8436868168, "jewels": "6772kg", 
+        "money": 8436868168,
+        "jewels": "6772kg", 
         "subLocker1": {
                 "dimond": "91879kg",
                 "subLockersDuplicateKey": ["key1", "key2"]
