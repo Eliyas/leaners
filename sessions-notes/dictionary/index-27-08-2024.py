@@ -1,5 +1,5 @@
 myBrand =	{
-  "brand": "Ford", 
+  "brand": "Ford", ## property 1 key : value
   "model": "Mustang",
   "year": 1964
 }

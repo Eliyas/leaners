@@ -11,10 +11,11 @@ thislist = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
 
 thislist[3:5] = ["blackcurrant", "watermelon"]
 
+print("this List")
 print(thislist)
 
 # without one value
-thislist2 = ["apple", "banana", "cherry", "orange"]
+thislist2 = ["apple", "banana", "cherry", "orange", "jack fruit"]
 
 thislist2[2:] = ["blackcurrant", "watermelon"]
 
@@ -31,6 +32,7 @@ thislist3 = ["apple", "banana", "cherry"]
 
 thislist3.insert(1, "watermelon")
 
+print("List 3") 
 print(thislist3) 
 
 

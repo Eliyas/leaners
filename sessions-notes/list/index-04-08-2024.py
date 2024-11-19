@@ -1,7 +1,7 @@
 
 # list creation
-#  index           #   0     ,    1    ,   2     ,   3
-myFruits1 =         ["apple", "banana", "cherry", "orange"]
+#  index   #   0     ,    1    ,   2     ,   3
+myFruits1 = ["apple", "banana", "cherry", "orange"]
 # index from back  #   -4    ,  -3    ,  -2     ,   -1
 myFruits2 = list(("apple", "banana", "grapes", "cherry", "orange"))
 
