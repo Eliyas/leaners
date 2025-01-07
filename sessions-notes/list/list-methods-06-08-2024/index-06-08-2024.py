@@ -8,15 +8,15 @@ thislist1.sort()
 thislist2 = [3,5,8,9,1]
 thislist2.sort()
 
-# print(thislist1)
+print(thislist2)
 # print(thislist2)
 
 # sorting with caps letters
-thislist3 = ["orange", "mango", "kiwi", "pineapple", "candy", "banana", "zeebra", "Apple", "Candy", "Banana"]
+thislist3 = ["orange", "mango", "kiwi", "pineapple", "candy", "apple", "banana", "zeebra", "Apple", "Candy", "Banana"]
 
 thislist3.sort()
 
-# print(thislist3)
+print(thislist3)
 # O/P ['Apple', 'Banana', 'Candy', 'banana', 'candy', 'kiwi', 'mango', 'orange', 'pineapple', 'zeebra']
 
 # descending order

@@ -3,8 +3,8 @@
 ## data type
 
 ##   list
-##   Index   0      ,   1     ,    2    ,  3
-myFruits = ["apple", 800, "banana", "cherry", "orange"]  # total fruits 4 (length of list)s
+##   Index   0   ,    1     , 2    ,  3   ,    4
+myFruits = ["apple", 800, "banana", "cherry", "orange", ["basith", 7788], {"name": "eliyas"}]  # total fruits 4 (length of list)s
 
 # syntax to access list
 # listName[ index ]
@@ -32,6 +32,14 @@ myDict = {
   "talk": "a person speaking",
   "modesty": "Indicates a quality"
 }
+
+
+myEmp1 = {
+  "mobileNo": 943322333,
+  "name": "Meeran",
+  "empId": 23,
+}
+
 
 myDictList = ["a person speaking", "Indicates a quality"]
 

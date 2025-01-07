@@ -21,15 +21,17 @@ z = "Eliyas"
 myName = x + y + z
 print(myName)
 
+myInt = 10 ## int(10)
+
 # 3 carbage collection
 x = "awesome"
 
-def myfunc():
+def myFunc():
   yyy = "fantastic"
   print("1 yyy " + yyy)
   print("Python is " + x)
 
-myfunc()
+myFunc()
 
 # yyy = "some value"
 # cannot print since yyy is defined inside myfunc and it is carbage collected(variable destroyed)
