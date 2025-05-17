@@ -49,7 +49,7 @@ console.log(name3);
 //// var - global variable - like public drive or shared drive
 var h1 = 100;
 h1 = 500;
-console.log("l1 : ", l1);
+//console.log("l1 : ", l1);
 
 
 // const and let are block scope.
@@ -64,4 +64,13 @@ const c1 = 30; // cannot be re-assigned, cannot be re-declared
 let l1 = 30; // can be re-assigned
 l1 = 50 // re-assignment
 
-console.log("l1 : ", l1);
+//console.log("l1 : ", l1);
+
+
+
+/// Assignments
+let y = 10;
+y += 10; // y = y + 10;
+y -= 10; // y = y - 10;
+y *= 10; // y = y * 10;
+console.log("y :" + y);
